@@ -1,0 +1,16 @@
+﻿<Module>
+	<Name value="Olto_Refine"/>
+	<Id value="Olto_Refine"/>
+	<Version value="v1.2.1.1"/>
+	<Official value="false" />
+	<SingleplayerModule value="true"/>
+	<MultiplayerModule value="false"/>
+	<SubModules>
+		<SubModule>
+			<Name value="Olto_Refine"/>
+			<DLLName value="Olto_Refine.dll"/>
+			<SubModuleClassType value="Olto_Refine.Olto_Refine_SubModule"/>
+			<Tags/>
+		</SubModule>
+	</SubModules>
+</Module>
